@@ -1,1 +1,1 @@
-A security researcher living in NorthSea.
+A security researcher living in [NorthSea](https://blog.northseapwn.top/issues/).
